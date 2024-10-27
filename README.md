@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/khananikrahman/is-an-employee-wearing-safety-gea
       - Model Definition
       - Model Training
       - Model Evaluation
-   8. ANN Improvement (Sequential API/Functional API)
+   8. ANN Improvement (Sequential API)
       - Model Definition
       - Model Training
       - Model Evaluation
