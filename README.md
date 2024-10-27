@@ -1,5 +1,6 @@
 # Computer Vision
 Mengembangkan model Deep Learning dengan memanfaatkan Computer Vision untuk mengidentifikasi apakah pekerja menggunakan peralatan keselamatan atau tidak.
+
 ---
 
 ## Objectives
@@ -28,13 +29,13 @@ https://www.kaggle.com/datasets/khananikrahman/is-an-employee-wearing-safety-gea
    4. Exploratory Data Analysis (EDA)
    5. Feature Engineering
    6. ANN Training (Sequential API)
-      vi.1. Model Definition
-      vi.2. Model Training
-      vi.3. Model Evaluation
-   7. ANN Improvement (Sequential API/Functional API)
-      vii.1. Model Definition
-      vii.2. Model Training
-      vii.3. Model Evaluation
-   8. Model Saving
-   9. Model Inference
-   10. Kesimpulan
+      - Model Definition
+      - Model Training
+      - Model Evaluation
+   8. ANN Improvement (Sequential API/Functional API)
+      - Model Definition
+      - Model Training
+      - Model Evaluation
+   9. Model Saving
+   10. Model Inference
+   11. Kesimpulan
